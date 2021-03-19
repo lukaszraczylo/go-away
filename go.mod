@@ -1,4 +1,4 @@
-module github.com/TwinProduction/go-away
+module github.com/lukaszraczylo/go-away
 
 go 1.16
 
